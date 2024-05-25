@@ -1,0 +1,1 @@
+APS do 3º semestre do curso de Ciência da Computação - Aplicação 100% Java - Energy Dash. Link para download da biblioteca JfreeChart (caso deseje executar o código em sua máquina): https://drive.google.com/file/d/1gFEiFBFze51FlzlqayTVn8KU3xES0Ezm/view?usp=sharing 
