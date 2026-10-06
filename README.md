@@ -2,7 +2,7 @@
 
 ![Energy Dash](src/ImageLogo/Banner%20Energy%20Dash.png)
 
-Aplicação desktop desenvolvida em **Java** durante o 3º semestre do curso de Ciência da Computação, com o objetivo de auxiliar na análise do consumo de energia elétrica e no acompanhamento de metas de redução de consumo.
+Aplicação Java para análise de consumo de energia e acompanhamento de metas de redução.
 
 O sistema recebe dados mensais de consumo em kWh, compara os valores com uma meta definida pelo usuário e apresenta visualizações gráficas para facilitar a interpretação dos resultados.
 
